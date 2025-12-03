@@ -7,9 +7,9 @@ Sub feita por Gustavo Oliveira Francischini rm:567664
 Exemplos: 123.456.789-00 ou 12345678900
 /E-mail: Digite seu email completo
 /Escolha uma das opções na lista:
-Trabalho Remoto
-,Inteligência Artificial
-,Sustentabilidade
+Trabalho Remoto,
+Inteligência Artificial,
+Sustentabilidade
 e Empreendedorismo
 /Selecione uma habilidade na lista
 Clique no botão "Adicionar Habilidade"
